@@ -12,9 +12,9 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = 'localhost';
-	public $user = 'root';
-	public $password = '1234';
+	public $host = 'us-cdbr-azure-southcentral-f.cloudapp.net';
+	public $user = 'b1a86bad4d6299';
+	public $password = '4a6574e9';
 	public $db = 'zents';
 	public $dbprefix = 'uu9ng_';
 	public $live_site = '';
